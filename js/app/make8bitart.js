@@ -111,7 +111,7 @@ $(function() {
   
   // to work, register your own imgur app here https://api.imgur.com/ and enter your info
   var imgur = {
-    clientId: '11112830fafe58a',
+    clientId: '92901f4483658d8',
   };
 
   
