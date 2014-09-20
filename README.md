@@ -1,6 +1,6 @@
 # make8bitart
 
-[8bitart.com](http://8-bitart.azurewebsites.net) is a web-based pixel art application that's super fun and easy to use!
+[8bitart](http://8bitart.azurewebsites.net) is a web-based pixel art application that's super fun and easy to use!
 
 
 ## dependencies
